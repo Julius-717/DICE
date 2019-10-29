@@ -1,1 +1,3 @@
 # DICE-GAME
+#### By
+**JULIUS KASH**
