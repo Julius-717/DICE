@@ -7,3 +7,8 @@ This is a code that enables my program to play the dice-game. Whenever a player 
 No complex requirements needed
 ## Known Bugs
 There are no known bugs at the moment but if you come across one please share to wayejulius10@gmail.com
+## Technologies Used
+1. HTML
+2. CSS
+3. Javascript
+4. jQuery
